@@ -7,7 +7,7 @@
 
 - 📫 How to reach me:  👔 [linkedin][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/sandali-perera-922310154/
+[linkedin]: https://www.linkedin.com/in/sandali-perera-922310154
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandaliPerera&layout=compact).
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandaliPerera&layout=compact)
 
