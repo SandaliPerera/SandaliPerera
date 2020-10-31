@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm Sandali. Thanks for visiting my GitHub
 
-
-<!--
-**SandaliPerera/SandaliPerera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🎓 I’m currently studying Information Systems at University of Colombo School of Computing
@@ -15,6 +11,5 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/sandali-perera-922310154/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandaliPerera&layout=compact).
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandaliPerera&layout=compact).
 
-->
