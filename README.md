@@ -10,5 +10,5 @@
 
 [linkedin]: https://www.linkedin.com/in/sandali-perera-922310154/
 
-[Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandaliPerera&layout=compact).
+[Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleFdo&layout=compact)
 
