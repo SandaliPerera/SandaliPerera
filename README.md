@@ -9,23 +9,3 @@
 
 [linkedin]: https://www.linkedin.com/in/sandali-perera-922310154
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandaliPerera&layout=compact)
-
-query {
-  user(login: "rjoydip") {
-    repositories(isFork: false, first: 100) {
-      nodes {
-        languages(first: 1) {
-          edges {
-            size
-            node {
-              color
-              name
-            }
-          }
-        }
-      }
-    }
-  }
-}
-
